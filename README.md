@@ -1,5 +1,8 @@
 # IA-Project-
 DÉTECTION DE TUMEURS CÉRÉBRALES
+réalisé par 
+Assia Adnan
+Abdessamad Benyachchou
 
 L’objectif principal est de développer un modèle CNN capable de classer les images IRM en deux catégories : tumeur (“yes”) ou absence de tumeur (“no”).  nous visons à : 
 
